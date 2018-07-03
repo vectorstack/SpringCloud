@@ -11,6 +11,9 @@
     <modules>
         <module>EurekaClient</module>
         <module>EurekaServer</module>
+        <module>Gateway</module>
+        <module>Feign</module>
+        <module>Config</module>
     </modules>
 
     <parent>
